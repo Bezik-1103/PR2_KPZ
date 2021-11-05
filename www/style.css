@@ -1,0 +1,22 @@
+header{
+	background-color:blue;	
+	display: flex;
+    align-items: center;
+	color:white;
+}
+.container{
+    max-width: 1200px;
+    margin:auto;
+    
+}
+.logo{
+	font-weight:bold;
+	margin:auto;
+	font-size: 40px;
+}
+.avatar{
+	width: 35%;
+}
+th{
+	border:1px solid;
+}
